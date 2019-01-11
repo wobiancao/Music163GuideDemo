@@ -1,6 +1,6 @@
 # Music163GuideDemo
 
-`开始之前先看效果`
+`开始之前先看效果 左边为网易云的效果 右边为我实现的效果`
 
 ![网易云原效果](https://upload-images.jianshu.io/upload_images/1216032-a99c749c85e18ce6.GIF?imageMogr2/auto-orient/strip)
 ![我实现的效果](https://upload-images.jianshu.io/upload_images/1216032-cb76b5abebceedb3.GIF?imageMogr2/auto-orient/strip)
