@@ -6,7 +6,7 @@
     android:layout_height="match_parent">
     <TextView
         android:id="@+id/pager_text_title"
-        android:textSize="18sp"
+        android:textSize="22sp"
         android:textColor="@color/colorWhite"
         android:text="@string/guid_text_one_title"
         android:layout_width="wrap_content"
@@ -14,9 +14,9 @@
         android:layout_height="wrap_content" />
     <TextView
         android:id="@+id/pager_text_info"
-        android:textSize="13sp"
+        android:textSize="14sp"
         android:layout_marginTop="10dp"
-        android:textColor="@color/colorWhite"
+        android:textColor="@color/colorTextWhite"
         android:text="@string/guid_text_one_info"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />

@@ -9,6 +9,8 @@
         android:layout_width="wrap_content"
         android:background="@drawable/a0c"
         android:padding="1dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
         android:elevation="1dp"
         android:layout_height="wrap_content">
         <FrameLayout
@@ -17,11 +19,11 @@
             android:layout_height="wrap_content">
             <ImageView
                 android:id="@+id/image_three_bg"
-                android:layout_width="268dp"
+                android:layout_width="wrap_content"
                 android:src="@mipmap/b44"
                 android:animateLayoutChanges="true"
                 android:adjustViewBounds="true"
-                android:layout_height="406dp" />
+                android:layout_height="wrap_content" />
 
             <ImageView
                 android:id="@+id/image_three_show"

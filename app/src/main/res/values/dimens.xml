@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="fragment_padding_top">130dp</dimen>
-    <dimen name="fragment_margin_bottom">100dp</dimen>
+    <dimen name="fragment_margin_bottom">120dp</dimen>
     <dimen name="activity_textpager_margin_top">60dp</dimen>
     <dimen name="activity_textpager_height">70dp</dimen>
 </resources>

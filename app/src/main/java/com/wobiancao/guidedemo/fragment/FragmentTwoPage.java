@@ -56,7 +56,7 @@ public class FragmentTwoPage extends LazyLoadFragment {
                             mHeadView.startAnimation(mAlphaAnim);
                             mHeadView.setVisibility(View.VISIBLE);
                         }
-                    }, 300);
+                    }, 250);
                     mShowView.startAnimation(mShowAnim);
                     mShowView.setVisibility(View.VISIBLE);
 

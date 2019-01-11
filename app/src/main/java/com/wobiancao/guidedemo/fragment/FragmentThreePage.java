@@ -52,7 +52,7 @@ public class FragmentThreePage extends LazyLoadFragment {
                         mBgView.startAnimation(mAlphaAnim);
                         mBgView.setVisibility(View.VISIBLE);
                     }
-                }, 300);
+                }, 250);
 
                 mShowView.startAnimation(mShowAnim);
                 mShowView.setVisibility(View.VISIBLE);

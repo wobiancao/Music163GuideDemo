@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
             field.setAccessible(true);
             FixedSpeedScroller scrollerText = new FixedSpeedScroller(this, new AccelerateInterpolator());
             field.set(mTextPager, scrollerText);
-            scrollerText.setmDuration(400);
+            scrollerText.setmDuration(350);
         } catch (Exception e) {
 
         }
