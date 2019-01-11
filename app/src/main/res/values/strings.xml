@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music163GuideDemo</string>
+    <string name="guid_text_one_title">个&#8194;性&#8194;推&#8194;荐</string>
+    <string name="guid_text_one_info">每&#8197;天&#8197;为&#8197;你&#8197;良&#8197;心&#8197;推&#8197;荐&#8197;最&#8197;合&#8197;口&#8197;味&#8197;的&#8197;好&#8197;音&#8197;乐</string>
+    <string name="guid_text_two_title">精&#8197;彩&#8197;评&#8197;论</string>
+    <string name="guid_text_two_info">9&#8197;亿&#8197;多&#8197;条&#8197;有&#8197;趣&#8197;的&#8197;故&#8197;事，听&#8197;歌&#8197;再&#8197;不&#8197;孤&#8197;单</string>
+    <string name="guid_text_three_title">精&#8197;选&#8197;视&#8197;频</string>
+    <string name="guid_text_three_info">音&#8197;乐&#8197;热&#8197;点，娱&#8197;乐&#8197;资&#8197;讯&#8197;尽&#8197;收&#8197;眼&#8197;底</string>
+</resources>

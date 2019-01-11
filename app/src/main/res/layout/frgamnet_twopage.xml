@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:background="@drawable/a0c"
+        android:padding="1dp"
+        android:elevation="1dp"
+        android:layout_height="wrap_content">
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:background="@color/colorWhite"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/image_two_bg"
+                android:layout_width="268dp"
+                android:src="@mipmap/b43"
+                android:animateLayoutChanges="true"
+                android:adjustViewBounds="true"
+                android:layout_height="406dp" />
+            <ImageView
+                android:id="@+id/image_two_show"
+                android:layout_width="wrap_content"
+                android:src="@mipmap/b49"
+                android:layout_marginLeft="13dp"
+                android:adjustViewBounds="true"
+                android:layout_marginTop="13dp"
+                android:animateLayoutChanges="true"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:id="@+id/image_two_head"
+                android:layout_width="wrap_content"
+                android:src="@mipmap/b4_"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="13dp"
+                android:animateLayoutChanges="true"
+                android:layout_marginBottom="70dp"
+                android:layout_height="wrap_content" />
+        </FrameLayout>
+    </RelativeLayout>
+</RelativeLayout>
